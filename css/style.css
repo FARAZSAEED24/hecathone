@@ -1,0 +1,87 @@
+.banner-1
+{
+    background-size: cover;
+    /* height: 300px; */
+    background-image:url(../img/03banner-01.jpg);
+}
+.banner-2 
+{
+    background-size:cover;
+    /* height: 300px; */
+    background-image:url(../img/03banner-02.jpg);
+}
+.banner-3
+{
+    background-size:cover;
+    /* height: 300px; */
+    background-image:url(../img/03banner-03.jpg);
+}
+.sec-4 
+{
+    text-align: center;
+}
+.new-ar li a
+    {
+        display: inline-flex;
+        color: black;
+        font-size: 13px;
+        text-decoration: none;
+        font-weight: 600;
+        margin: 15px;
+        padding-left: 10px;
+}
+.new-ar li a:hover
+{
+    color: orangered;
+}
+.new-ar li
+{
+    list-style: none;
+    margin: 0 10px;
+}
+.new-ar
+{
+    display: inline-flex;
+    padding-right: 50px;   
+}
+.nav-1 a:hover
+{
+    color: orangered;
+}
+.nav-1 a i:hover
+{
+    color: orangered;
+}
+.nav-1 a
+{
+    margin: 10px;
+    color: rgb(48, 48, 48);
+}
+.col 
+{
+    background-image: url(../img/jjumu.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    vertical-align: bottom;
+}
+.week-sale
+{
+    background-image: url(../img/bg_block.jpg);
+    width: 100%;
+    height: 60vh;
+    background-position: center;
+    margin-top: 70PX;
+    color: white;
+    text-align:justify;
+    padding-left: 800px;
+    padding-top: 100px;
+}
+.sec-7 
+{
+    text-align: center;
+}
+.pt-4
+{
+    background-color: lightgray;
+}
